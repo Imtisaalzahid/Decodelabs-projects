@@ -108,9 +108,6 @@ plt.xlabel("Predicted")
 plt.ylabel("Actual")
 plt.show()
 
-# --------------------------------
-# Step 8: Predict New Flower
-# --------------------------------
 
 new_flower = [[5.1, 3.5, 1.4, 0.2]]
 
